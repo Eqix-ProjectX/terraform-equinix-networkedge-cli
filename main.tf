@@ -1,6 +1,7 @@
 /*
 make sure to manually run below commands on the Cisco device using CLI
 
+conf t
 ip http secure-server
 restconf
 
